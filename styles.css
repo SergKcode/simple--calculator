@@ -60,12 +60,13 @@
     font-weight: bold;
     height: 30px;
     margin:10px;
+    padding: 5px;
     
 
 }
 
 .label{
-    color: rgb(161, 85, 34);
+    color: #00538F;
     font-size: 25px;
     font-weight: bold;
     text-shadow: 0px 2px 1px #333333;
